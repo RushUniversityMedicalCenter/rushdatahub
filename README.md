@@ -12,3 +12,6 @@ With the help of a Professional Services Team from AWS, Rush University Medical 
 Dr. Bala Hota, MD, Chief Analytics Officer, Rush University System for Health
 
 Anil Saldanha, Chief Cloud Officer, Rush University System for Health
+
+# Project Repositories
+https://github.com/RushUniversityMedicalCenter/datahub
